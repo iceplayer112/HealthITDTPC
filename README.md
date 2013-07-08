@@ -8,6 +8,6 @@ After years of meeting with individuals, small businesses in healthcare and web 
 ```
 for more on...
 ```
-* [the requirements we've come up with] (https://github.com/iceplayer112/HealthITDTPC/wiki/Requirements)
-* [use cases] (https://github.com/iceplayer112/HealthITDTPC/wiki/Use-Cases)
+* [requirements and use cases] (https://github.com/iceplayer112/HealthITDTPC/wiki/Requirements-and-Use-Cases)
 * [individuals and companies in the consortium] (https://github.com/iceplayer112/HealthITDTPC/wiki/Members)
+* [standards](https://github.com/iceplayer112/HealthITDTPC/wiki/Standards)
