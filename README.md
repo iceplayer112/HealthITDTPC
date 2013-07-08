@@ -6,7 +6,7 @@ The HealthIT Data Transfer and Privacy Consortium is a collaboration of constitu
 ```
 for more on...
 ```
-* [the requirements we've come up with:] (https://github.com/iceplayer112/HealthITDTPC/wiki/Requirements)
-* [use cases:] (https://github.com/iceplayer112/HealthITDTPC/wiki/Use-Cases)
-* [individuals in the consortium:] (https://github.com/iceplayer112/HealthITDTPC/wiki/Members)
-* [companies in the consortium:] (https://github.com/iceplayer112/HealthITDTPC/wiki/Members)
+* [the requirements we've come up with] (https://github.com/iceplayer112/HealthITDTPC/wiki/Requirements)
+* [use cases] (https://github.com/iceplayer112/HealthITDTPC/wiki/Use-Cases)
+* [individuals in the consortium] (https://github.com/iceplayer112/HealthITDTPC/wiki/Members)
+* [companies in the consortium] (https://github.com/iceplayer112/HealthITDTPC/wiki/Members)
