@@ -11,3 +11,4 @@ for more on...
 * [requirements and use cases] (https://github.com/iceplayer112/HealthITDTPC/wiki/Requirements-and-Use-Cases)
 * [individuals and companies in the consortium] (https://github.com/iceplayer112/HealthITDTPC/wiki/Members)
 * [standards](https://github.com/iceplayer112/HealthITDTPC/wiki/Standards)
+* [wiki](https://github.com/iceplayer112/HealthITDTPC/wiki)
